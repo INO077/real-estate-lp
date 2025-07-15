@@ -1,2 +1,2 @@
 # real-estate-lp
-上質な不動産取引LP
+不動産取引LP
